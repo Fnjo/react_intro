@@ -11,9 +11,9 @@ $npm start
 
 ```
 - Check for double pinned items
-- Remove items from pinned 
-- Search & pin icons
-
+- Option to remove items from pinned 
+- Add search & pin icons
+- Instead of adding text into pinnedTexts array, add the id and show the matching text with the id?
 ```
 
 
